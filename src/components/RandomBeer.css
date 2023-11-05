@@ -1,0 +1,18 @@
+.allbeers1 {
+    max-width: 100px; /* Ajusta el ancho máximo de las imágenes */
+    height: auto; /* Mantiene la relación de aspecto de las imágenes */
+    margin-right: 20px;
+    margin-top: 50px; /* Agrega un espacio a la derecha de la imagen */
+    vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+    display: inline-block;
+    position: relative;
+    top: 8px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 700px; /* Permite que el texto se muestre a la derecha de la imagen */
+  }
+
+h2 {
+
+    position: relative;
+    top: 30px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 690px;
+}  

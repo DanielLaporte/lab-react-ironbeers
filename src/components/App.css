@@ -1,0 +1,21 @@
+.App-header {
+  background-color: #dde5f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(5px + 2vmin);
+  text-align: left;
+  color: rgb(14, 1, 1);
+}
+
+/* App.css */
+.link1 {
+  text-decoration: none; /* Elimina la decoración de enlace */
+  color: rgb(9, 1, 1); /* Cambia el color del texto a blanco */
+  font-size: 30px ;
+  margin-left: 0px;
+}
+
+

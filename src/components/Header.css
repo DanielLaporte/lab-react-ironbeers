@@ -1,0 +1,16 @@
+/* Header.css */
+.header {
+    background-color: blue;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

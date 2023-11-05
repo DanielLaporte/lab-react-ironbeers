@@ -1,0 +1,38 @@
+/* NewBeerForm.css */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Redondea los bordes del formulario */
+    background-color: #f0f0f0;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  button {
+    width: 100%;
+    margin: 10px -10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Redondea los bordes de los campos de entrada */
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px 0px;
+  }
+  
+  button:hover {
+    background-color: #0033cc; /* Cambia el color de fondo al pasar el mouse */
+  }
+  
+  h3 {
+    text-align: center; /* Centra el texto horizontalmente */
+    margin-top: 20px; 
+    font-size: 30px;/* Opcional: Agrega margen superior para centrar verticalmente */
+  }

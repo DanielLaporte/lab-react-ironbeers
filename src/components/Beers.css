@@ -1,0 +1,56 @@
+/* Beers.css */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row; /* Establece la dirección de la fila para la distribución horizontal */
+  }
+  
+  li img {
+    max-width: 100px;
+    height: auto;
+    position: relative;
+    top: 10px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 500px;
+  }
+  
+  h4 {
+    font-size: 40px;
+    margin: 0; 
+    position: relative;
+    top: 10px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 800px;/* Elimina el margen superior e inferior del título */
+  }
+  
+  p1 {
+    font-size: 16px;
+    margin: 0; /* Elimina el margen superior e inferior de los párrafos */
+    width: 100%;
+    position: relative;
+    top: 120px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 715px;
+  }
+  
+  p2 {
+    font-size: 16px;
+    margin: 0; /* Elimina el margen superior e inferior de los párrafos */
+    width: 100%;
+    position: relative;
+    top: 150px; /* Coloca el elemento 100px desde la parte superior del contenedor */
+    left: 65px;
+  }
